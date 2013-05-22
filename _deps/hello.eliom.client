@@ -1,0 +1,4 @@
+_client/hello.cmo :
+_client/hello.cmx :
+_client/hello.cmo : _server/hello.type_mli
+_client/hello.cmx : _server/hello.type_mli

@@ -1,0 +1,21 @@
+May 22 16:00:53: main: Command pipe created
+May 22 16:00:53: main: Initializing Ocsipersist-dbm...
+May 22 16:00:53: main: Launching a new Ocsidbm process: /home/mzp/.opam/system/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hello/ocsipersist.
+May 22 16:00:54: main: ...Initialization of Ocsipersist-dbm complete
+May 22 16:00:54: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "ocaml.home.local"
+May 22 16:00:54: main: Ocsigen has been launched (initialisations ok)
+May 22 16:01:34: main: Initializing Ocsipersist-dbm...
+May 22 16:01:34: main: Launching a new Ocsidbm process: /home/mzp/.opam/system/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hello/ocsipersist.
+May 22 16:01:35: main: ...Initialization of Ocsipersist-dbm complete
+May 22 16:01:35: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "ocaml.home.local"
+May 22 16:01:35: main: Ocsigen has been launched (initialisations ok)
+May 22 16:02:08: main: Initializing Ocsipersist-dbm...
+May 22 16:02:08: main: Launching a new Ocsidbm process: /home/mzp/.opam/system/lib/ocsigenserver/extensions/ocsidbm.opt on directory local/var/data/hello/ocsipersist.
+May 22 16:02:09: main: ...Initialization of Ocsipersist-dbm complete
+May 22 16:02:09: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "ocaml.home.local"
+May 22 16:02:09: main: Ocsigen has been launched (initialisations ok)
+May 22 16:03:05: main: Initializing Ocsipersist-dbm...
+May 22 16:03:05: main: Launching a new Ocsidbm process: /home/mzp/.opam/system/lib/ocsigenserver/extensions/ocsidbm.opt on directory local/var/data/hello/ocsipersist.
+May 22 16:03:06: main: ...Initialization of Ocsipersist-dbm complete
+May 22 16:03:06: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "ocaml.home.local"
+May 22 16:03:06: main: Ocsigen has been launched (initialisations ok)
